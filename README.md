@@ -26,8 +26,51 @@ Based on the input, it:
   - `random`
   - `sys`
 
-## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/procrastination-analyzer.git
+## 📌 Example Output
+
+```
+==================================================
+      PROCRASTINATION ANALYZER
+==================================================
+
+What task are you avoiding? Chores
+
+Why are you avoiding it?
+Options: hard / boring / confusing / tired / lazy
+Enter your reason: hard
+
+Analyzing your procrastination pattern...
+
+
+🔍 ANALYSIS RESULT
+------------------------------
+📌 Task: Chores  
+⚠️ Reason: hard  
+💡 Suggestion: Break it into smaller steps. Start with just 10 minutes.
+
+✨ Motivation:
+Start where you are. Use what you have. Do what you can.
+
+🚀 Action Plan:
+Start with: Spend just 5–10 minutes on 'Chores'.
+
+==================================================
+```
+## 🎯 Purpose
+
+This project is designed to:
+- Demonstrate basic Python concepts (functions, dictionaries, user input)
+- Apply simple behavioral logic
+- Create an interactive CLI experience
+
+## 🌱 Future Improvements
+
+- Add GUI using Tkinter  
+- Store user history  
+- More advanced behavioral analysis  
+- Personalized tracking and progress insights  
+
+## 👩‍💻 Author
+
+Aashi Mangla
